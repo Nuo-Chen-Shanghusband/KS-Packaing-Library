@@ -1,3 +1,10 @@
-.KS-Nav_Tree-navigation_2-parent_i,.KS-Nav_Tree-navigation_3-parent_i,.KS-Nav_Tree-navigation_4-parent_i {
+.KS-Nav_Tree-navigation_2-parent_i , .KS-Nav_Tree-navigation_3-parent_i , .KS-Nav_Tree-navigation_4-parent_i {
+	transform: rotate(0deg);
+}
+.KS-Nav_Tree-navigation_2-child-div {
+	display: block;
+}
+
+.KS-Nav_Tree-navigation_3-child_i , .KS-Nav_Tree-navigation_4-child_i {
 	transform: rotate(0deg);
 }
